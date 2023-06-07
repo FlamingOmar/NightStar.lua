@@ -1,4 +1,4 @@
-if shared.NightExecuted then
+if shared.AshuraExecuted then
 	local GuiLibrary = {}
 
 	local tween = game:GetService("TweenService")
